@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ed040/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 題仁術便覽後昔陳師文裴宗元嘗定大觀二百九十七方得丹溪訂其說一斷於內經素難遂為醫術宗旨是知疾非術罔醫術非達至道者傳之罔重何者道能術術故人信術以道也茲不佞倅恆郡侍太尊王公竊睹其迥然應旁午神裕精朗色澤氣固談吐多根極內素娓娓剖至道玄旨一日聚和衷堂視以仁術便覽云此同里張氏輯試之一一驗斯刻而傳噫嘻是蓋能重張氏者哉且不佞聞醫家呼壅閼𨂂盩痿痹曰不仁海寓覽斯術者誠融所不仁而仁之則術繇道立道繇術廣將補苴造化納大衆春一臺胡亶如丹溪子僅僅以醫鳴邪故曰道之真以治身道之緒餘以治天下國家王公有之萬曆乙酉冬十月朔杞人周九皋書
+  hash: sha256:77091f0ffaaa4dd35d38b644c2223df767a1b98ba7d76628c1a88554c7c7cdd4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed040_jc_000-d9.h1s1}
+metadata:
+  title: 仁術便覽
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed040.xml
+hash: sha256:cae92380c7f2d24a97b4e3461272f45d6c58bad9359928be92f52068fefad2fa
